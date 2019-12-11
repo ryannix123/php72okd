@@ -13,4 +13,4 @@ Step 3.
 Run oc apply -f https://raw.githubusercontent.com/ryannix123/php72okd/master/php72.json -n openshift
 
 Step 4.
-Log back into the web console and the PHP image stream should say 7.2.
+Log back into the web console. Create a new project. The PHP image stream should say 7.2.
